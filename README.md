@@ -54,7 +54,8 @@ h1 --- s1 --- s2 --- h2
 
 ### Screenshot 6: Blocked Scenario
 <img width="410" height="196" alt="screenshot 7" src="https://github.com/user-attachments/assets/49b4a8aa-03d1-4ea7-9375-31a466702011" />
----
+
+
 ## 📈 Performance Analysis
 Latency is measured using ping and throughput using iperf.
 ---
