@@ -38,17 +38,17 @@ h1 --- s1 --- s2 --- h2
 ---
 ## 📸 Screenshots
 ### Screenshot 1: Mininet Setup
-![s1](screenshot1.png)
+![s1](screenshot 1.png)
 ### Screenshot 2: POX Controller
-![s2](screenshot2.png)
+![s2](screenshot 2.png)
 ### Screenshot 3: Connectivity and Flow table 
-![s3](scnreenshot3.png)
+![s3](scnreenshot 3.png)
 ### Screenshot 5: Performance
-![s5](screenshot5.png)
+![s5](screenshot 5.png)
 ### Screenshot 6: Normal Scenario
-![s6](screenshot6.png)
+![s6](screenshot 6.png)
 ### Screenshot 7: Blocked Scenario
-![s7](screenshot7.png)
+![s7](screenshot 7.png)
 ---
 ## 📈 Performance Analysis
 Latency is measured using ping and throughput using iperf.
