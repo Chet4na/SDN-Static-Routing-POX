@@ -57,10 +57,10 @@ h1 --- s1 --- s2 --- h2
 
 
 ## 📈 Performance Analysis
-Latency is measured using ping and throughput using iperf.
+   * Latency is measured using ping and throughput using iperf.
 ---
 ## ✅ Conclusion
-This project demonstrates how SDN controllers manage network behavior using static flow rules.
+   * This project demonstrates how SDN controllers manage network behavior using static flow rules.
 ---
 ## 📚 References
 * Mininet Documentation
