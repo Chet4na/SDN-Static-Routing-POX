@@ -37,11 +37,19 @@ h1 --- s1 --- s2 --- h2
 * pingall shows 100% packet loss
 ---
 ## 📸 Screenshots
-
-(Add your screenshots below after uploading them)
-
+### Screenshot 1: Mininet Setup
+![s1](screenshot1.png)
+### Screenshot 2: POX Controller
+![s2](screenshot2.png)
+### Screenshot 3: Connectivity and Flow table 
+![s3](scnreenshot3.png)
+### Screenshot 5: Performance
+![s5](screenshot5.png)
+### Screenshot 6: Normal Scenario
+![s6](screenshot6.png)
+### Screenshot 7: Blocked Scenario
+![s7](screenshot7.png)
 ---
-
 ## 📈 Performance Analysis
 Latency is measured using ping and throughput using iperf.
 ---
