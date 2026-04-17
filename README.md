@@ -39,14 +39,19 @@ h1 --- s1 --- s2 --- h2
 ## 📸 Screenshots
 ### Screenshot 1: Mininet Setup
 <img width="556" height="525" alt="screenshot 1 " src="https://github.com/user-attachments/assets/c1110284-47f0-4d90-9f4e-5c052e189566" />
+
 ### Screenshot 2: POX Controller
 <img width="727" height="300" alt="screenshot 2" src="https://github.com/user-attachments/assets/c3b5e522-656a-457c-bcd3-c1b670a4a136" />
+
 ### Screenshot 3: Connectivity and Flow table 
 <img width="728" height="290" alt="scnreenshot 3" src="https://github.com/user-attachments/assets/6cde8ea9-bdea-4edc-9ccd-ee3088a0460e" />
+
 ### Screenshot 5: Performance
 <img width="969" height="204" alt="screenshot 5 " src="https://github.com/user-attachments/assets/e5e9151f-cf6c-4d0c-8070-66f6b209453c" />
+
 ### Screenshot 6: Normal Scenario
 <img width="373" height="105" alt="screenshot 6 " src="https://github.com/user-attachments/assets/c31a4015-4db1-4b51-a6bf-64c2464274e4" />
+
 ### Screenshot 7: Blocked Scenario
 <img width="410" height="196" alt="screenshot 7" src="https://github.com/user-attachments/assets/49b4a8aa-03d1-4ea7-9375-31a466702011" />
 ---
